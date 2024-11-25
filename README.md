@@ -1,4 +1,4 @@
-# __gcl (__generalCodeLicense)
+# _gcl (_generalCodeLicense)
 
 ## 1. Definitions
 
