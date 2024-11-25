@@ -1,4 +1,4 @@
-# _gcl (_generalCodeLicense)
+# __gcl (__generalCodeLicense)
 
 ## 1. Definitions
 
@@ -52,49 +52,66 @@ The Licensee must not remove, alter, or obscure any copyright notices or other l
 ### 6.3
 Any attempt to bypass or circumvent this condition will result in the immediate termination of this License.
 
-## 7. Termination
+## 7. Code Deobfuscation
 ### 7.1
-This License will terminate automatically upon any breach of its terms and conditions by the Licensee.
+If the Work is distributed in an obfuscated form, the Licensee has the right to deobfuscate the code only if the Licensor permits/gives permission to do so.
 
 ### 7.2
-Upon termination, the Licensee must cease all use, modification, and distribution of the Work and destroy all copies of the Work and Derivative Works in their possession.
+The Licensee must ensure that any deobfuscated version of the Work:
+- Remains subject to all terms and conditions of this License
+- Is not distributed without explicit written permission from the Licensor
+- Is used solely for legitimate purposes as defined in this License
+- Maintains all copyright notices and attributions
 
 ### 7.3
-The Licensor reserves the right to seek legal remedies for any breach of this License.
+Any attempt to use deobfuscated code for malicious purposes, reverse engineering beyond the scope of permitted use, or unauthorized distribution shall result in immediate termination of this License.
 
-## 8. No Warranty
+### 7.4
+Licensor has right to stop allowing deobfuscation of code for any reason and at any time, but Licensor has to notice Licensee about the change.
+
+## 8. Termination
 ### 8.1
-The Work is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+This License will terminate automatically upon any breach of its terms and conditions by the Licensee.
 
 ### 8.2
+Upon termination, the Licensee must cease all use, modification, and distribution of the Work and destroy all copies of the Work and Derivative Works in their possession.
+
+### 8.3
+The Licensor reserves the right to seek legal remedies for any breach of this License.
+
+## 9. No Warranty
+### 9.1
+The Work is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+### 9.2
 In no event shall the Licensor be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Work or the use or other dealings in the Work.
 
-## 9. Indemnification
-### 9.1
+## 10. Indemnification
+### 10.1
 The Licensee agrees to indemnify and hold harmless the Licensor from and against any and all claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from or related to the Licensee's use, modification, or distribution of the Work.
 
-## 10. Governing Law
-### 10.1
+## 11. Governing Law
+### 11.1
 This License shall be governed by and construed in accordance with the laws of [Jurisdiction].
 
-### 10.2
+### 11.2
 Any dispute arising under or relating to this License shall be subject to the exclusive jurisdiction of the courts of [Jurisdiction].
 
-## 11. Entire Agreement
-### 11.1
+## 12. Entire Agreement
+### 12.1
 This License constitutes the entire agreement between the Licensor and the Licensee and supersedes all prior understandings and agreements, whether written or oral, between the parties with respect to the Work.
 
-### 11.2
+### 12.2
 No amendment or modification of this License will be binding unless in writing and signed by both parties.
 
-## 12. Severability
-### 12.1
+## 13. Severability
+### 13.1
 If any provision of this License is held to be invalid or unenforceable, such provision shall be struck, and the remaining provisions shall be enforced.
 
-## 13. Assignment
-### 13.1
+## 14. Assignment
+### 14.1
 The Licensee may not assign or transfer this License or any rights or obligations under this License without the prior written consent of the Licensor.
 
-## 14. Notices
-### 14.1
+## 15. Notices
+### 15.1
 All notices required or permitted under this License shall be in writing and shall be deemed effectively given upon receipt when delivered personally, sent by certified or registered mail, postage prepaid, or sent by recognized overnight courier, and addressed to the party to be notified at the address specified in this License or such other address as such party may designate by ten (10) days' advance written notice to the other party.
